@@ -1,2 +1,2 @@
-# mmrest-dicker
-dockerfile for the mm-rest
+# mmrest-docker
+Host the Dockerfile for the mm-rest
